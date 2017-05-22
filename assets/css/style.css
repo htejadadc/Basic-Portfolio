@@ -42,7 +42,7 @@ aside{
 	max-width: 270px;
 	float: right;
 	border: 1px solid #cccccc;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 }
 
 footer {
@@ -65,7 +65,7 @@ h1 {
 	font-weight: bold;
 	color: #ffffff;
 	background-color: #4aaaa5;
-	margin: 0px 322px 0px 0px;
+	margin: 0;
 	float: left;	
 }
 
@@ -105,7 +105,7 @@ img {
     float: left;
     margin: 23px 20px 20px 0;
     width: 200px;
-    height: 160px;
+    height: auto;
 }
 
 p {
@@ -150,7 +150,6 @@ textarea{
 
 #container {
 	padding-top: 130px;
-	height: 930px;
 	width: 960px;
 	margin: 0 auto;
 	clear: both;
